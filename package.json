@@ -1,0 +1,20 @@
+{
+  "name": "shaklainstutorial",
+  "version": "1.0.0",
+  "description": "tutorial for nodejs",
+  "main": "sum.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MIT"
+  ],
+  "author": "shalkain@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15",
+    "pg": "7.14.0"
+  }
+}
